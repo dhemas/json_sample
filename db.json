@@ -49,7 +49,7 @@
             "id": 10,
             "title": "Promo 10",
             "image": "https://picsum/photos/id/1005/400/200"
-        },
+        }
     ],
     "news": [
         {
@@ -111,7 +111,7 @@
             "title": "News Title 10",
             "image": "https://picsum/photos/id/1015/400/250",
             "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-        },
+        }
     ],
     "tenants": [
         {
@@ -163,6 +163,6 @@
             "id": 10,
             "title": "Tenant 10",
             "image": "https://picsum/photos/id/1025/400/200"
-        },
-    ],
+        }
+    ]
 }
