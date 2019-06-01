@@ -3,113 +3,113 @@
         {
             "id": 1,
             "title": "Promo 1",
-            "image": "https://picsum/photos/id/0/400/200"
+            "image": "https://picsum.photos/id/0/400/200"
         },
         {
             "id": 2,
             "title": "Promo 2",
-            "image": "https://picsum/photos/id/1/400/200"
+            "image": "https://picsum.photos/id/1/400/200"
         },
         {
             "id": 3,
             "title": "Promo 3",
-            "image": "https://picsum/photos/id/10/400/200"
+            "image": "https://picsum.photos/id/10/400/200"
         },
         {
             "id": 4,
             "title": "Promo 4",
-            "image": "https://picsum/photos/id/100/400/200"
+            "image": "https://picsum.photos/id/100/400/200"
         },
         {
             "id": 5,
             "title": "Promo 5",
-            "image": "https://picsum/photos/id/1000/400/200"
+            "image": "https://picsum.photos/id/1000/400/200"
         },
         {
             "id": 6,
             "title": "Promo 6",
-            "image": "https://picsum/photos/id/1001/400/200"
+            "image": "https://picsum.photos/id/1001/400/200"
         },
         {
             "id": 7,
             "title": "Promo 7",
-            "image": "https://picsum/photos/id/1002/400/200"
+            "image": "https://picsum.photos/id/1002/400/200"
         },
         {
             "id": 8,
             "title": "Promo 8",
-            "image": "https://picsum/photos/id/1003/400/200"
+            "image": "https://picsum.photos/id/1003/400/200"
         },
         {
             "id": 9,
             "title": "Promo 9",
-            "image": "https://picsum/photos/id/1004/400/200"
+            "image": "https://picsum.photos/id/1004/400/200"
         },
         {
             "id": 10,
             "title": "Promo 10",
-            "image": "https://picsum/photos/id/1005/400/200"
+            "image": "https://picsum.photos/id/1005/400/200"
         }
     ],
     "news": [
         {
             "id": 1,
             "title": "News Title 1",
-            "image": "https://picsum/photos/id/1006/400/250",
+            "image": "https://picsum.photos/id/1006/400/250",
             "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
             "id": 2,
             "title": "News Title 2",
-            "image": "https://picsum/photos/id/1008/400/250",
+            "image": "https://picsum.photos/id/1008/400/250",
             "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
             "id": 3,
             "title": "News Title 3",
-            "image": "https://picsum/photos/id/1009/400/250",
+            "image": "https://picsum.photos/id/1009/400/250",
             "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
             "id": 4,
             "title": "News Title 4",
-            "image": "https://picsum/photos/id/101/400/250",
+            "image": "https://picsum.photos/id/101/400/250",
             "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
             "id": 5,
             "title": "News Title 5",
-            "image": "https://picsum/photos/id/1010/400/250",
+            "image": "https://picsum.photos/id/1010/400/250",
             "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
             "id": 6,
             "title": "News Title 6",
-            "image": "https://picsum/photos/id/1011/400/250",
+            "image": "https://picsum.photos/id/1011/400/250",
             "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
             "id": 7,
             "title": "News Title 7",
-            "image": "https://picsum/photos/id/1012/400/250",
+            "image": "https://picsum.photos/id/1012/400/250",
             "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
             "id": 8,
             "title": "News Title 8",
-            "image": "https://picsum/photos/id/1013/400/250",
+            "image": "https://picsum.photos/id/1013/400/250",
             "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
             "id": 9,
             "title": "News Title 9",
-            "image": "https://picsum/photos/id/1014/400/250",
+            "image": "https://picsum.photos/id/1014/400/250",
             "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         },
         {
             "id": 10,
             "title": "News Title 10",
-            "image": "https://picsum/photos/id/1015/400/250",
+            "image": "https://picsum.photos/id/1015/400/250",
             "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
         }
     ],
@@ -117,52 +117,52 @@
         {
             "id": 1,
             "title": "Tenant 1",
-            "image": "https://picsum/photos/id/1016/400/200"
+            "image": "https://picsum.photos/id/1016/400/200"
         },
         {
             "id": 2,
             "title": "Tenant 2",
-            "image": "https://picsum/photos/id/1018/400/200"
+            "image": "https://picsum.photos/id/1018/400/200"
         },
         {
             "id": 3,
             "title": "Tenant 3",
-            "image": "https://picsum/photos/id/1019/400/200"
+            "image": "https://picsum.photos/id/1019/400/200"
         },
         {
             "id": 4,
             "title": "Tenant 4",
-            "image": "https://picsum/photos/id/102/400/200"
+            "image": "https://picsum.photos/id/102/400/200"
         },
         {
             "id": 5,
             "title": "Tenant 5",
-            "image": "https://picsum/photos/id/1020/400/200"
+            "image": "https://picsum.photos/id/1020/400/200"
         },
         {
             "id": 6,
             "title": "Tenant 6",
-            "image": "https://picsum/photos/id/1021/400/200"
+            "image": "https://picsum.photos/id/1021/400/200"
         },
         {
             "id": 7,
             "title": "Tenant 7",
-            "image": "https://picsum/photos/id/1023/400/200"
+            "image": "https://picsum.photos/id/1023/400/200"
         },
         {
             "id": 8,
             "title": "Tenant 8",
-            "image": "https://picsum/photos/id/1024/400/200"
+            "image": "https://picsum.photos/id/1024/400/200"
         },
         {
             "id": 9,
             "title": "Tenant 9",
-            "image": "https://picsum/photos/id/1022/400/200"
+            "image": "https://picsum.photos/id/1022/400/200"
         },
         {
             "id": 10,
             "title": "Tenant 10",
-            "image": "https://picsum/photos/id/1025/400/200"
+            "image": "https://picsum.photos/id/1025/400/200"
         }
     ]
 }
